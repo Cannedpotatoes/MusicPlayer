@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assists/file.png</file>
+        <file>assists/goon.png</file>
+        <file>assists/lastmusic.png</file>
+        <file>assists/nextmusic.png</file>
+        <file>assists/pause.png</file>
+        <file>assists/isMuted.png</file>
+        <file>assists/volume1.png</file>
+        <file>assists/volume2.png</file>
+        <file>assists/volume3.png</file>
+        <file>assists/mode-list.png</file>
+        <file>assists/mode-rand.png</file>
+        <file>assists/mode-repeat.png</file>
+        <file>assists/background.jpg</file>
+        <file>assists/icon.png</file>
+        <file>assists/welcome.png</file>
+        <file>assists/loading.png</file>
+        <file>assists/search.png</file>
+        <file>assists/defaultcover.png</file>
+        <file>assists/sourcemusic.wav</file>
+        <file>assists/setting.png</file>
+    </qresource>
+</RCC>
